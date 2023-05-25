@@ -1,6 +1,9 @@
 body{
-    background-color: yellow;
+    background-color: black;
+}
+h1 {
+    text-align: center;
 }
 h1,p,h5 {
-    color: blue
+    color: white;
 }
